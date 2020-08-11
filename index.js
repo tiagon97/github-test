@@ -4,3 +4,5 @@ const uniqueNumbers = new Set(numbers);
 console.log("heloo world");
 
 uniqueNumbers.forEach((num) => (num % 2 ? num * 2 : num * 10));
+
+console.log("essa");
