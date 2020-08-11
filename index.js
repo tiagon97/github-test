@@ -6,3 +6,7 @@ console.log("heloo world");
 uniqueNumbers.forEach((num) => (num % 2 ? num * 2 : num * 10));
 
 console.log("essass");
+
+console.log("dev1");
+
+console.log("dev2");
